@@ -1,6 +1,5 @@
 {
   "sku": "ITEM-056",
-  "cost_yen": 1100,
   "theme": "gold",
   "title": "KARE KANO — HIS AND HER CIRCUMSTANCES ACT 1.0",
   "subtitle": "Original Soundtrack | King Records KICA-440 | 1998 | Music by Shiro Sagisu",
@@ -39,11 +38,21 @@
     "category_id": "176984",
     "condition_id": "4000",
     "aspects": {
-      "Artist": ["Shiro Sagisu"],
-      "Release Title": ["Kareshi Kanojo no Jijou ACT 1.0"],
-      "Format": ["CD"],
-      "Genre": ["Anime"],
-      "Record Label": ["King Records"]
+      "Artist": [
+        "Shiro Sagisu"
+      ],
+      "Release Title": [
+        "Kareshi Kanojo no Jijou ACT 1.0"
+      ],
+      "Format": [
+        "CD"
+      ],
+      "Genre": [
+        "Anime"
+      ],
+      "Record Label": [
+        "King Records"
+      ]
     },
     "condition_description": "Excellent, well-kept copy. Disc is clean and plays well - tested. Jewel case in excellent condition. Booklet and illustration insert card included. The only flaw: no OBI strip. Japanese pressing KICA-440. Please see photos."
   }
