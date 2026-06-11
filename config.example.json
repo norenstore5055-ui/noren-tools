@@ -1,0 +1,13 @@
+{
+  "_comment": "config.json にコピーして使用。client_id/client_secret/ru_name の3つだけ手入力。refresh_tokenはget_token.py、ポリシーID系はsetup_account.pyが自動で埋める。git管理外。",
+  "env": "production",
+  "client_id": "発行したApp ID (Client ID) をここに",
+  "client_secret": "発行したCert ID (Client Secret) をここに",
+  "ru_name": "発行したRuName をここに",
+  "refresh_token": "get_token.py が自動で埋める",
+  "merchant_location_key": "noren-store-aichi",
+  "payment_policy_id": "setup_account.py が自動で埋める",
+  "return_policy_id": "setup_account.py が自動で埋める",
+  "fulfillment_policy_id": "setup_account.py が自動で埋める",
+  "default_ad_rate": 10
+}
